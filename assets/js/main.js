@@ -96,7 +96,7 @@ function changeToggleIcon(
 
 let mixMenu = mixitup(".menu__wrapper", {
   load: {
-    filter: ".lunch",
+    filter: ".breakfast",
   },
   selectors: {
     target: ".menu__card",
